@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericRepository.SQL", "GenericRepository.SQL\GenericRepository.SQL.csproj", "{C7C1943E-CC57-4D7D-988A-1FF04ED1D6C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToConsume.GenericRepository.SQL", "HowToConsume.GenericRepository.SQL\HowToConsume.GenericRepository.SQL.csproj", "{980B3C9B-3092-473B-ACB9-EE66C54266BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7C1943E-CC57-4D7D-988A-1FF04ED1D6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7C1943E-CC57-4D7D-988A-1FF04ED1D6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7C1943E-CC57-4D7D-988A-1FF04ED1D6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7C1943E-CC57-4D7D-988A-1FF04ED1D6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980B3C9B-3092-473B-ACB9-EE66C54266BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980B3C9B-3092-473B-ACB9-EE66C54266BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980B3C9B-3092-473B-ACB9-EE66C54266BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980B3C9B-3092-473B-ACB9-EE66C54266BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFE4EBAF-F514-41CA-A2D2-D8DE95CD0B07}
+	EndGlobalSection
+EndGlobal
