@@ -69,3 +69,5 @@ FindBy(Expression<Func<T, bool>> predicate, string[] includes);
 RawSql(string query, params object[] parameters);
 Exists(Expression<Func<T, bool>> predicate);
 ```
+
+> You can always refer to 'HowToConsume.GenericRepository.SQL' project to understand how to consume the library
